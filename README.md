@@ -1,5 +1,3 @@
-# mx-food-mart
-
 ## Project setup
 ```
 npm install
